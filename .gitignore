@@ -2,5 +2,9 @@ test_proxies_bd.py
 test_proxies.py
 verify_proxies.py
 Scrape/
+Scrape/automation.py
+Scrape/login.py
+Scrape/main.py
+Scrape/__pycache__/
 bot_test.py
 __pycache__/

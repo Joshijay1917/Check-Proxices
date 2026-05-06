@@ -1,5 +1,6 @@
-./test_proxies_bd.py
-./test_proxies.py
-./verify_proxies.py
-./Scrape
-./bot_test.py
+test_proxies_bd.py
+test_proxies.py
+verify_proxies.py
+Scrape/
+bot_test.py
+__pycache__/
